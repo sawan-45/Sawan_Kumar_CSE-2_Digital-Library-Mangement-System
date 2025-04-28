@@ -38,7 +38,13 @@ This project is a [The Library Management System (LMS) is a web-based applicatio
 
 ## 🚀 Steps to Run/Execute the Project
 
-1. *Clone the repository:*
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+## Steps to Run/Execute the Project
+
+1. **Prerequisites**:
+   - Install [XAMPP](https://www.apachefriends.org/) or a similar PHP/MySQL server.
+   - Ensure PHP, Apache, and MySQL are installed and operational.
+
+2. **Clone/Download the Project**:
+   - Download the project files or clone the repository:
+     ```bash
+     git clone [repository-url]
